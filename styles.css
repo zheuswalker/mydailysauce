@@ -1,0 +1,2027 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1750px;
+	 height: 3384px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1750px;
+	 height: 3384px;
+	 z-index:1;
+} 
+
+ #Layer2 
+{ 
+	 left: 265px; 
+	 top: 1180px; 
+	 position: absolute; 
+	 width: 243px;
+	 height: 244px;
+	 z-index:2;
+} 
+
+ #Categorybox1 
+{ 
+	 left: 263px; 
+	 top: 1178px; 
+	 position: absolute; 
+	 width: 250px;
+	 height: 248px;
+	 z-index:3;
+} 
+
+ #FeaturedModel 
+{ 
+	 left: 324px; 
+	 top: 1281px; 
+	 position: absolute; 
+	 width: 114px;
+	 height: 51px;
+	 z-index:4;
+} 
+
+ #Layer2_0 
+{ 
+	 left: 605px; 
+	 top: 1180px; 
+	 position: absolute; 
+	 width: 243px;
+	 height: 244px;
+	 z-index:5;
+} 
+
+ #Layer4 
+{ 
+	 left: 603px; 
+	 top: 1180px; 
+	 position: absolute; 
+	 width: 249px;
+	 height: 244px;
+	 z-index:6;
+} 
+
+ #Categorybox1_0 
+{ 
+	 left: 603px; 
+	 top: 1178px; 
+	 position: absolute; 
+	 width: 250px;
+	 height: 248px;
+	 z-index:7;
+} 
+
+ #MostFollowed 
+{ 
+	 left: 627px; 
+	 top: 1281px; 
+	 position: absolute; 
+	 width: 187px;
+	 height: 51px;
+	 z-index:8;
+} 
+
+ #Layer2_1 
+{ 
+	 left: 942px; 
+	 top: 1180px; 
+	 position: absolute; 
+	 width: 243px;
+	 height: 244px;
+	 z-index:9;
+} 
+
+ #Layer5 
+{ 
+	 left: 941px; 
+	 top: 1180px; 
+	 position: absolute; 
+	 width: 245px;
+	 height: 245px;
+	 z-index:10;
+} 
+
+ #Categorybox1_1 
+{ 
+	 left: 940px; 
+	 top: 1178px; 
+	 position: absolute; 
+	 width: 250px;
+	 height: 248px;
+	 z-index:11;
+} 
+
+ #MostFollowed_0 
+{ 
+	 left: 1006px; 
+	 top: 1281px; 
+	 position: absolute; 
+	 width: 110px;
+	 height: 51px;
+	 z-index:12;
+} 
+
+ #Layer7 
+{ 
+	 left: 1279px; 
+	 top: 1180px; 
+	 position: absolute; 
+	 width: 247px;
+	 height: 245px;
+	 z-index:13;
+} 
+
+ #Categorybox1_2 
+{ 
+	 left: 1277px; 
+	 top: 1178px; 
+	 position: absolute; 
+	 width: 250px;
+	 height: 248px;
+	 z-index:14;
+} 
+
+ #MostFollowed_1 
+{ 
+	 left: 1352px; 
+	 top: 1282px; 
+	 position: absolute; 
+	 width: 93px;
+	 height: 50px;
+	 z-index:15;
+} 
+
+ #ificonios7arrowdown2 
+{ 
+	 left: 176px; 
+	 top: 1291px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 29px;
+	 z-index:16;
+} 
+
+ #ificonios7arrowdown2_0 
+{ 
+	 left: 1601px; 
+	 top: 1291px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 29px;
+	 z-index:17;
+} 
+
+ #Shape1 
+{ 
+	 left: 1001px; 
+	 top: 1524px; 
+	 position: absolute; 
+	 width: 1334px;
+	 height: 1216px;
+	 z-index:18;
+} 
+
+ #Layer9 
+{ 
+	 left: 386px; 
+	 top: 1627px; 
+	 position: absolute; 
+	 width: 2652px;
+	 height: 1507px;
+	 z-index:19;
+} 
+
+ #Layer10 
+{ 
+	 left: 1081px; 
+	 top: 1851px; 
+	 position: absolute; 
+	 width: 317px;
+	 height: 983px;
+	 z-index:20;
+} 
+
+ #GetyourDailySauceHap 
+{ 
+	 left: 143px; 
+	 top: 1980px; 
+	 position: absolute; 
+	 width: 506px;
+	 height: 88px;
+	 z-index:21;
+} 
+
+ #Contrarytopopularbel 
+{ 
+	 left: 144px; 
+	 top: 2113px; 
+	 position: absolute; 
+	 width: 460px;
+	 height: 77px;
+	 z-index:22;
+} 
+
+ #Shape3copy 
+{ 
+	 left: 147px; 
+	 top: 2217px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 2px;
+	 z-index:23;
+} 
+
+ #WanttobeaModelSignUp 
+{ 
+	 left: 147px; 
+	 top: 2243px; 
+	 position: absolute; 
+	 width: 215px;
+	 height: 14px;
+	 z-index:24;
+} 
+
+ #GetthisBenefitswithy 
+{ 
+	 left: 138px; 
+	 top: 2303px; 
+	 position: absolute; 
+	 width: 770px;
+	 height: 34px;
+	 z-index:25;
+} 
+
+ #UnlimitedIncome 
+{ 
+	 left: 209px; 
+	 top: 2378px; 
+	 position: absolute; 
+	 width: 134px;
+	 height: 13px;
+	 z-index:26;
+} 
+
+ #Get70ofcommisionThem 
+{ 
+	 left: 208px; 
+	 top: 2410px; 
+	 position: absolute; 
+	 width: 537px;
+	 height: 13px;
+	 z-index:27;
+} 
+
+ #Shape8 
+{ 
+	 left: 281px; 
+	 top: 2411px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 9px;
+	 z-index:28;
+} 
+
+ #Shape9 
+{ 
+	 left: 128px; 
+	 top: 2375px; 
+	 position: absolute; 
+	 width: 56px;
+	 height: 56px;
+	 z-index:29;
+} 
+
+ #Shape10 
+{ 
+	 left: 142px; 
+	 top: 2388px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 29px;
+	 z-index:30;
+} 
+
+ #LiveStreamingSupport 
+{ 
+	 left: 209px; 
+	 top: 2458px; 
+	 position: absolute; 
+	 width: 178px;
+	 height: 17px;
+	 z-index:31;
+} 
+
+ #Get70ofcommisionThem_0 
+{ 
+	 left: 208px; 
+	 top: 2490px; 
+	 position: absolute; 
+	 width: 537px;
+	 height: 13px;
+	 z-index:32;
+} 
+
+ #Shape8_0 
+{ 
+	 left: 281px; 
+	 top: 2491px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 9px;
+	 z-index:33;
+} 
+
+ #Shape9_0 
+{ 
+	 left: 128px; 
+	 top: 2455px; 
+	 position: absolute; 
+	 width: 56px;
+	 height: 56px;
+	 z-index:34;
+} 
+
+ #Shape10_0 
+{ 
+	 left: 142px; 
+	 top: 2468px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 29px;
+	 z-index:35;
+} 
+
+ #CommunicatewithFans 
+{ 
+	 left: 208px; 
+	 top: 2538px; 
+	 position: absolute; 
+	 width: 183px;
+	 height: 13px;
+	 z-index:36;
+} 
+
+ #Get70ofcommisionThem_1 
+{ 
+	 left: 208px; 
+	 top: 2570px; 
+	 position: absolute; 
+	 width: 537px;
+	 height: 13px;
+	 z-index:37;
+} 
+
+ #Shape8_1 
+{ 
+	 left: 281px; 
+	 top: 2571px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 9px;
+	 z-index:38;
+} 
+
+ #Shape9_1 
+{ 
+	 left: 128px; 
+	 top: 2535px; 
+	 position: absolute; 
+	 width: 56px;
+	 height: 56px;
+	 z-index:39;
+} 
+
+ #Shape10_1 
+{ 
+	 left: 142px; 
+	 top: 2548px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 29px;
+	 z-index:40;
+} 
+
+ #SellYourContents 
+{ 
+	 left: 208px; 
+	 top: 2618px; 
+	 position: absolute; 
+	 width: 139px;
+	 height: 13px;
+	 z-index:41;
+} 
+
+ #Get70ofcommisionThem_2 
+{ 
+	 left: 208px; 
+	 top: 2650px; 
+	 position: absolute; 
+	 width: 537px;
+	 height: 13px;
+	 z-index:42;
+} 
+
+ #Shape8_2 
+{ 
+	 left: 281px; 
+	 top: 2651px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 9px;
+	 z-index:43;
+} 
+
+ #Shape9_2 
+{ 
+	 left: 128px; 
+	 top: 2615px; 
+	 position: absolute; 
+	 width: 56px;
+	 height: 56px;
+	 z-index:44;
+} 
+
+ #Shape10_2 
+{ 
+	 left: 142px; 
+	 top: 2628px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 29px;
+	 z-index:45;
+} 
+
+ #Shape19 
+{ 
+	 left: -1px; 
+	 top: 2544px; 
+	 position: absolute; 
+	 width: 2609px;
+	 height: 1232px;
+	 z-index:46;
+} 
+
+ #Subscribetoournewsle 
+{ 
+	 left: 676px; 
+	 top: 2873px; 
+	 position: absolute; 
+	 width: 416px;
+	 height: 26px;
+	 z-index:47;
+} 
+
+ #Shape2copy 
+{ 
+	 left: 314px; 
+	 top: 2976px; 
+	 position: absolute; 
+	 width: 1175px;
+	 height: 113px;
+	 z-index:48;
+} 
+
+ #Shape5copy6 
+{ 
+	 left: 1302px; 
+	 top: 3001px; 
+	 position: absolute; 
+	 width: 157px;
+	 height: 63px;
+	 z-index:49;
+} 
+
+ #Subscribe 
+{ 
+	 left: 1342px; 
+	 top: 3026px; 
+	 position: absolute; 
+	 width: 74px;
+	 height: 13px;
+	 z-index:50;
+} 
+
+ #closeenvelope 
+{ 
+	 left: 355px; 
+	 top: 3023px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 22px;
+	 z-index:51;
+} 
+
+ #Shape20 
+{ 
+	 left: 413px; 
+	 top: 3044px; 
+	 position: absolute; 
+	 width: 394px;
+	 height: 4px;
+	 z-index:52;
+} 
+
+ #examplemailcom 
+{ 
+	 left: 415px; 
+	 top: 3023px; 
+	 position: absolute; 
+	 width: 151px;
+	 height: 17px;
+	 z-index:53;
+} 
+
+ #Therearemanyvariatio 
+{ 
+	 left: 585px; 
+	 top: 2925px; 
+	 position: absolute; 
+	 width: 634px;
+	 height: 17px;
+	 z-index:54;
+} 
+
+ #MyDailySauce 
+{ 
+	 left: 180px; 
+	 top: 3139px; 
+	 position: absolute; 
+	 width: 176px;
+	 height: 29px;
+	 z-index:55;
+} 
+
+ #instagram 
+{ 
+	 left: 288px; 
+	 top: 3347px; 
+	 position: absolute; 
+	 width: 26px;
+	 height: 26px;
+	 z-index:56;
+} 
+
+ #twitter 
+{ 
+	 left: 224px; 
+	 top: 3347px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 24px;
+	 z-index:57;
+} 
+
+ #facebooklogo 
+{ 
+	 left: 176px; 
+	 top: 3347px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 28px;
+	 z-index:58;
+} 
+
+ #terms 
+{ 
+	 left: 540px; 
+	 top: 3358px; 
+	 position: absolute; 
+	 width: 742px;
+	 height: 20px;
+	 z-index:59;
+} 
+
+ #allrights 
+{ 
+	 left: 747px; 
+	 top: 3329px; 
+	 position: absolute; 
+	 width: 327px;
+	 height: 18px;
+	 z-index:60;
+} 
+
+ #hellomydailysaucecom 
+{ 
+	 left: 180px; 
+	 top: 3310px; 
+	 position: absolute; 
+	 width: 190px;
+	 height: 17px;
+	 z-index:61;
+} 
+
+ #1234567856121731Fiel 
+{ 
+	 left: 436px; 
+	 top: 3193px; 
+	 position: absolute; 
+	 width: 159px;
+	 height: 84px;
+	 z-index:62;
+} 
+
+ #Contrarytopopularbel_0 
+{ 
+	 left: 182px; 
+	 top: 3191px; 
+	 position: absolute; 
+	 width: 213px;
+	 height: 107px;
+	 z-index:63;
+} 
+
+ #Rectangle1 
+{ 
+	 left: 281px; 
+	 top: 1358px; 
+	 position: absolute; 
+	 width: 303px;
+	 height: 135px;
+	 z-index:64;
+} 
+
+ #Layer8 
+{ 
+	 left: 113px; 
+	 top: 1360px; 
+	 position: absolute; 
+	 width: 132px;
+	 height: 132px;
+	 z-index:65;
+} 
+
+ #Shape25 
+{ 
+	 left: 321px; 
+	 top: 1491px; 
+	 position: absolute; 
+	 width: 264px;
+	 height: 59px;
+	 z-index:66;
+} 
+
+ #Message 
+{ 
+	 left: 111px; 
+	 top: 1491px; 
+	 position: absolute; 
+	 width: 220px;
+	 height: 59px;
+	 z-index:67;
+} 
+
+ #closeenvelope_0 
+{ 
+	 left: 150px; 
+	 top: 1508px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 27px;
+	 z-index:68;
+} 
+
+ #1hourago 
+{ 
+	 left: 328px; 
+	 top: 1410px; 
+	 position: absolute; 
+	 width: 64px;
+	 height: 13px;
+	 z-index:69;
+} 
+
+ #Yourbiogoeshereandhe 
+{ 
+	 left: 326px; 
+	 top: 1428px; 
+	 position: absolute; 
+	 width: 169px;
+	 height: 29px;
+	 z-index:70;
+} 
+
+ #GetMySauce 
+{ 
+	 left: 433px; 
+	 top: 1514px; 
+	 position: absolute; 
+	 width: 94px;
+	 height: 16px;
+	 z-index:71;
+} 
+
+ #SendMessage 
+{ 
+	 left: 203px; 
+	 top: 1514px; 
+	 position: absolute; 
+	 width: 59px;
+	 height: 13px;
+	 z-index:72;
+} 
+
+ #hearticon 
+{ 
+	 left: 387px; 
+	 top: 1507px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 28px;
+	 z-index:73;
+} 
+
+ #Followers 
+{ 
+	 left: 514px; 
+	 top: 1370px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 10px;
+	 z-index:74;
+} 
+
+ #layer_456 
+{ 
+	 left: 524px; 
+	 top: 1388px; 
+	 position: absolute; 
+	 width: 31px;
+	 height: 14px;
+	 z-index:75;
+} 
+
+ #username 
+{ 
+	 left: 327px; 
+	 top: 1390px; 
+	 position: absolute; 
+	 width: 78px;
+	 height: 10px;
+	 z-index:76;
+} 
+
+ #mask 
+{ 
+	 left: 224px; 
+	 top: 1389px; 
+	 position: absolute; 
+	 width: 86px;
+	 height: 86px;
+	 z-index:77;
+} 
+
+ #profileimg 
+{ 
+	 left: 225px; 
+	 top: 1389px; 
+	 position: absolute; 
+	 width: 85px;
+	 height: 85px;
+	 z-index:78;
+} 
+
+ #graycircle 
+{ 
+	 left: 189px; 
+	 top: 1384px; 
+	 position: absolute; 
+	 width: 95px;
+	 height: 96px;
+	 z-index:79;
+} 
+
+ #story 
+{ 
+	 left: 221px; 
+	 top: 1384px; 
+	 position: absolute; 
+	 width: 96px;
+	 height: 96px;
+	 z-index:80;
+} 
+
+ #online 
+{ 
+	 left: 297px; 
+	 top: 1439px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 22px;
+	 z-index:81;
+} 
+
+ #Label 
+{ 
+	 left: 500px; 
+	 top: 1472px; 
+	 position: absolute; 
+	 width: 54px;
+	 height: 10px;
+	 z-index:82;
+} 
+
+ #Rectangle1_0 
+{ 
+	 left: 811px; 
+	 top: 1358px; 
+	 position: absolute; 
+	 width: 303px;
+	 height: 135px;
+	 z-index:83;
+} 
+
+ #Layer8_0 
+{ 
+	 left: 643px; 
+	 top: 1360px; 
+	 position: absolute; 
+	 width: 132px;
+	 height: 132px;
+	 z-index:84;
+} 
+
+ #Shape25_0 
+{ 
+	 left: 851px; 
+	 top: 1491px; 
+	 position: absolute; 
+	 width: 264px;
+	 height: 59px;
+	 z-index:85;
+} 
+
+ #Message_0 
+{ 
+	 left: 641px; 
+	 top: 1491px; 
+	 position: absolute; 
+	 width: 220px;
+	 height: 59px;
+	 z-index:86;
+} 
+
+ #closeenvelope_1 
+{ 
+	 left: 680px; 
+	 top: 1508px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 27px;
+	 z-index:87;
+} 
+
+ #1hourago_0 
+{ 
+	 left: 858px; 
+	 top: 1410px; 
+	 position: absolute; 
+	 width: 64px;
+	 height: 13px;
+	 z-index:88;
+} 
+
+ #Yourbiogoeshereandhe_0 
+{ 
+	 left: 856px; 
+	 top: 1428px; 
+	 position: absolute; 
+	 width: 169px;
+	 height: 29px;
+	 z-index:89;
+} 
+
+ #GetMySauce_0 
+{ 
+	 left: 963px; 
+	 top: 1514px; 
+	 position: absolute; 
+	 width: 94px;
+	 height: 16px;
+	 z-index:90;
+} 
+
+ #SendMessage_0 
+{ 
+	 left: 733px; 
+	 top: 1514px; 
+	 position: absolute; 
+	 width: 59px;
+	 height: 13px;
+	 z-index:91;
+} 
+
+ #hearticon_0 
+{ 
+	 left: 917px; 
+	 top: 1507px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 28px;
+	 z-index:92;
+} 
+
+ #Followers_0 
+{ 
+	 left: 1044px; 
+	 top: 1370px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 10px;
+	 z-index:93;
+} 
+
+ #layer_456_0 
+{ 
+	 left: 1054px; 
+	 top: 1388px; 
+	 position: absolute; 
+	 width: 31px;
+	 height: 14px;
+	 z-index:94;
+} 
+
+ #username_0 
+{ 
+	 left: 857px; 
+	 top: 1390px; 
+	 position: absolute; 
+	 width: 78px;
+	 height: 10px;
+	 z-index:95;
+} 
+
+ #mask_0 
+{ 
+	 left: 754px; 
+	 top: 1389px; 
+	 position: absolute; 
+	 width: 86px;
+	 height: 86px;
+	 z-index:96;
+} 
+
+ #profileimg_0 
+{ 
+	 left: 755px; 
+	 top: 1389px; 
+	 position: absolute; 
+	 width: 85px;
+	 height: 85px;
+	 z-index:97;
+} 
+
+ #graycircle_0 
+{ 
+	 left: 719px; 
+	 top: 1384px; 
+	 position: absolute; 
+	 width: 95px;
+	 height: 96px;
+	 z-index:98;
+} 
+
+ #story_0 
+{ 
+	 left: 751px; 
+	 top: 1384px; 
+	 position: absolute; 
+	 width: 96px;
+	 height: 96px;
+	 z-index:99;
+} 
+
+ #online_0 
+{ 
+	 left: 829px; 
+	 top: 1439px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 22px;
+	 z-index:100;
+} 
+
+ #Label_0 
+{ 
+	 left: 1030px; 
+	 top: 1472px; 
+	 position: absolute; 
+	 width: 54px;
+	 height: 10px;
+	 z-index:101;
+} 
+
+ #Rectangle1_1 
+{ 
+	 left: 1341px; 
+	 top: 1358px; 
+	 position: absolute; 
+	 width: 303px;
+	 height: 135px;
+	 z-index:102;
+} 
+
+ #Layer8_1 
+{ 
+	 left: 1173px; 
+	 top: 1360px; 
+	 position: absolute; 
+	 width: 132px;
+	 height: 132px;
+	 z-index:103;
+} 
+
+ #Shape25_1 
+{ 
+	 left: 1381px; 
+	 top: 1491px; 
+	 position: absolute; 
+	 width: 264px;
+	 height: 59px;
+	 z-index:104;
+} 
+
+ #Message_1 
+{ 
+	 left: 1171px; 
+	 top: 1491px; 
+	 position: absolute; 
+	 width: 220px;
+	 height: 59px;
+	 z-index:105;
+} 
+
+ #closeenvelope_2 
+{ 
+	 left: 1210px; 
+	 top: 1508px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 27px;
+	 z-index:106;
+} 
+
+ #1hourago_1 
+{ 
+	 left: 1388px; 
+	 top: 1410px; 
+	 position: absolute; 
+	 width: 64px;
+	 height: 13px;
+	 z-index:107;
+} 
+
+ #Yourbiogoeshereandhe_1 
+{ 
+	 left: 1386px; 
+	 top: 1428px; 
+	 position: absolute; 
+	 width: 169px;
+	 height: 29px;
+	 z-index:108;
+} 
+
+ #GetMySauce_1 
+{ 
+	 left: 1493px; 
+	 top: 1514px; 
+	 position: absolute; 
+	 width: 94px;
+	 height: 16px;
+	 z-index:109;
+} 
+
+ #SendMessage_1 
+{ 
+	 left: 1263px; 
+	 top: 1514px; 
+	 position: absolute; 
+	 width: 59px;
+	 height: 13px;
+	 z-index:110;
+} 
+
+ #hearticon_1 
+{ 
+	 left: 1447px; 
+	 top: 1507px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 28px;
+	 z-index:111;
+} 
+
+ #Followers_1 
+{ 
+	 left: 1574px; 
+	 top: 1370px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 10px;
+	 z-index:112;
+} 
+
+ #layer_456_1 
+{ 
+	 left: 1584px; 
+	 top: 1388px; 
+	 position: absolute; 
+	 width: 31px;
+	 height: 14px;
+	 z-index:113;
+} 
+
+ #username_1 
+{ 
+	 left: 1387px; 
+	 top: 1390px; 
+	 position: absolute; 
+	 width: 78px;
+	 height: 10px;
+	 z-index:114;
+} 
+
+ #mask_1 
+{ 
+	 left: 1284px; 
+	 top: 1389px; 
+	 position: absolute; 
+	 width: 86px;
+	 height: 86px;
+	 z-index:115;
+} 
+
+ #profileimg_1 
+{ 
+	 left: 1285px; 
+	 top: 1389px; 
+	 position: absolute; 
+	 width: 85px;
+	 height: 85px;
+	 z-index:116;
+} 
+
+ #graycircle_1 
+{ 
+	 left: 1249px; 
+	 top: 1384px; 
+	 position: absolute; 
+	 width: 95px;
+	 height: 96px;
+	 z-index:117;
+} 
+
+ #story_1 
+{ 
+	 left: 1281px; 
+	 top: 1384px; 
+	 position: absolute; 
+	 width: 96px;
+	 height: 96px;
+	 z-index:118;
+} 
+
+ #online_1 
+{ 
+	 left: 1357px; 
+	 top: 1439px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 22px;
+	 z-index:119;
+} 
+
+ #Label_1 
+{ 
+	 left: 1560px; 
+	 top: 1472px; 
+	 position: absolute; 
+	 width: 70px;
+	 height: 10px;
+	 z-index:120;
+} 
+
+ #Rectangle1_2 
+{ 
+	 left: 281px; 
+	 top: 1608px; 
+	 position: absolute; 
+	 width: 303px;
+	 height: 135px;
+	 z-index:121;
+} 
+
+ #Layer8_2 
+{ 
+	 left: 113px; 
+	 top: 1610px; 
+	 position: absolute; 
+	 width: 132px;
+	 height: 132px;
+	 z-index:122;
+} 
+
+ #Shape25_2 
+{ 
+	 left: 321px; 
+	 top: 1741px; 
+	 position: absolute; 
+	 width: 264px;
+	 height: 59px;
+	 z-index:123;
+} 
+
+ #Message_2 
+{ 
+	 left: 111px; 
+	 top: 1741px; 
+	 position: absolute; 
+	 width: 220px;
+	 height: 59px;
+	 z-index:124;
+} 
+
+ #closeenvelope_3 
+{ 
+	 left: 150px; 
+	 top: 1758px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 27px;
+	 z-index:125;
+} 
+
+ #1hourago_2 
+{ 
+	 left: 328px; 
+	 top: 1660px; 
+	 position: absolute; 
+	 width: 64px;
+	 height: 13px;
+	 z-index:126;
+} 
+
+ #Yourbiogoeshereandhe_2 
+{ 
+	 left: 326px; 
+	 top: 1678px; 
+	 position: absolute; 
+	 width: 169px;
+	 height: 29px;
+	 z-index:127;
+} 
+
+ #GetMySauce_2 
+{ 
+	 left: 433px; 
+	 top: 1764px; 
+	 position: absolute; 
+	 width: 94px;
+	 height: 16px;
+	 z-index:128;
+} 
+
+ #SendMessage_2 
+{ 
+	 left: 203px; 
+	 top: 1764px; 
+	 position: absolute; 
+	 width: 59px;
+	 height: 13px;
+	 z-index:129;
+} 
+
+ #hearticon_2 
+{ 
+	 left: 387px; 
+	 top: 1757px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 28px;
+	 z-index:130;
+} 
+
+ #Followers_2 
+{ 
+	 left: 514px; 
+	 top: 1620px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 10px;
+	 z-index:131;
+} 
+
+ #layer_456_2 
+{ 
+	 left: 524px; 
+	 top: 1638px; 
+	 position: absolute; 
+	 width: 31px;
+	 height: 14px;
+	 z-index:132;
+} 
+
+ #username_2 
+{ 
+	 left: 327px; 
+	 top: 1640px; 
+	 position: absolute; 
+	 width: 78px;
+	 height: 10px;
+	 z-index:133;
+} 
+
+ #mask_2 
+{ 
+	 left: 224px; 
+	 top: 1639px; 
+	 position: absolute; 
+	 width: 86px;
+	 height: 86px;
+	 z-index:134;
+} 
+
+ #profileimg_2 
+{ 
+	 left: 225px; 
+	 top: 1639px; 
+	 position: absolute; 
+	 width: 85px;
+	 height: 85px;
+	 z-index:135;
+} 
+
+ #graycircle_2 
+{ 
+	 left: 189px; 
+	 top: 1634px; 
+	 position: absolute; 
+	 width: 95px;
+	 height: 96px;
+	 z-index:136;
+} 
+
+ #story_2 
+{ 
+	 left: 221px; 
+	 top: 1634px; 
+	 position: absolute; 
+	 width: 96px;
+	 height: 96px;
+	 z-index:137;
+} 
+
+ #online_2 
+{ 
+	 left: 297px; 
+	 top: 1691px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 22px;
+	 z-index:138;
+} 
+
+ #Label_2 
+{ 
+	 left: 480px; 
+	 top: 1722px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 10px;
+	 z-index:139;
+} 
+
+ #Rectangle1_3 
+{ 
+	 left: 811px; 
+	 top: 1608px; 
+	 position: absolute; 
+	 width: 303px;
+	 height: 135px;
+	 z-index:140;
+} 
+
+ #Layer8_3 
+{ 
+	 left: 643px; 
+	 top: 1610px; 
+	 position: absolute; 
+	 width: 132px;
+	 height: 132px;
+	 z-index:141;
+} 
+
+ #Shape25_3 
+{ 
+	 left: 851px; 
+	 top: 1741px; 
+	 position: absolute; 
+	 width: 264px;
+	 height: 59px;
+	 z-index:142;
+} 
+
+ #Message_3 
+{ 
+	 left: 641px; 
+	 top: 1741px; 
+	 position: absolute; 
+	 width: 220px;
+	 height: 59px;
+	 z-index:143;
+} 
+
+ #closeenvelope_4 
+{ 
+	 left: 680px; 
+	 top: 1758px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 27px;
+	 z-index:144;
+} 
+
+ #1hourago_3 
+{ 
+	 left: 858px; 
+	 top: 1660px; 
+	 position: absolute; 
+	 width: 64px;
+	 height: 13px;
+	 z-index:145;
+} 
+
+ #Yourbiogoeshereandhe_3 
+{ 
+	 left: 856px; 
+	 top: 1678px; 
+	 position: absolute; 
+	 width: 169px;
+	 height: 29px;
+	 z-index:146;
+} 
+
+ #GetMySauce_3 
+{ 
+	 left: 963px; 
+	 top: 1764px; 
+	 position: absolute; 
+	 width: 94px;
+	 height: 16px;
+	 z-index:147;
+} 
+
+ #SendMessage_3 
+{ 
+	 left: 733px; 
+	 top: 1764px; 
+	 position: absolute; 
+	 width: 59px;
+	 height: 13px;
+	 z-index:148;
+} 
+
+ #hearticon_3 
+{ 
+	 left: 917px; 
+	 top: 1757px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 28px;
+	 z-index:149;
+} 
+
+ #Followers_3 
+{ 
+	 left: 1044px; 
+	 top: 1620px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 10px;
+	 z-index:150;
+} 
+
+ #layer_456_3 
+{ 
+	 left: 1054px; 
+	 top: 1638px; 
+	 position: absolute; 
+	 width: 31px;
+	 height: 14px;
+	 z-index:151;
+} 
+
+ #username_3 
+{ 
+	 left: 857px; 
+	 top: 1640px; 
+	 position: absolute; 
+	 width: 78px;
+	 height: 10px;
+	 z-index:152;
+} 
+
+ #mask_3 
+{ 
+	 left: 754px; 
+	 top: 1639px; 
+	 position: absolute; 
+	 width: 86px;
+	 height: 86px;
+	 z-index:153;
+} 
+
+ #profileimg_3 
+{ 
+	 left: 755px; 
+	 top: 1639px; 
+	 position: absolute; 
+	 width: 85px;
+	 height: 85px;
+	 z-index:154;
+} 
+
+ #graycircle_3 
+{ 
+	 left: 719px; 
+	 top: 1634px; 
+	 position: absolute; 
+	 width: 95px;
+	 height: 96px;
+	 z-index:155;
+} 
+
+ #story_3 
+{ 
+	 left: 751px; 
+	 top: 1634px; 
+	 position: absolute; 
+	 width: 96px;
+	 height: 96px;
+	 z-index:156;
+} 
+
+ #online_3 
+{ 
+	 left: 827px; 
+	 top: 1689px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 22px;
+	 z-index:157;
+} 
+
+ #Label_3 
+{ 
+	 left: 1010px; 
+	 top: 1722px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 10px;
+	 z-index:158;
+} 
+
+ #Rectangle1_4 
+{ 
+	 left: 1341px; 
+	 top: 1608px; 
+	 position: absolute; 
+	 width: 303px;
+	 height: 135px;
+	 z-index:159;
+} 
+
+ #Layer8_4 
+{ 
+	 left: 1173px; 
+	 top: 1610px; 
+	 position: absolute; 
+	 width: 132px;
+	 height: 132px;
+	 z-index:160;
+} 
+
+ #Shape25_4 
+{ 
+	 left: 1381px; 
+	 top: 1741px; 
+	 position: absolute; 
+	 width: 264px;
+	 height: 59px;
+	 z-index:161;
+} 
+
+ #Message_4 
+{ 
+	 left: 1171px; 
+	 top: 1741px; 
+	 position: absolute; 
+	 width: 220px;
+	 height: 59px;
+	 z-index:162;
+} 
+
+ #closeenvelope_5 
+{ 
+	 left: 1210px; 
+	 top: 1758px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 27px;
+	 z-index:163;
+} 
+
+ #1hourago_4 
+{ 
+	 left: 1388px; 
+	 top: 1660px; 
+	 position: absolute; 
+	 width: 64px;
+	 height: 13px;
+	 z-index:164;
+} 
+
+ #Yourbiogoeshereandhe_4 
+{ 
+	 left: 1386px; 
+	 top: 1678px; 
+	 position: absolute; 
+	 width: 169px;
+	 height: 29px;
+	 z-index:165;
+} 
+
+ #GetMySauce_4 
+{ 
+	 left: 1493px; 
+	 top: 1764px; 
+	 position: absolute; 
+	 width: 94px;
+	 height: 16px;
+	 z-index:166;
+} 
+
+ #SendMessage_4 
+{ 
+	 left: 1263px; 
+	 top: 1764px; 
+	 position: absolute; 
+	 width: 59px;
+	 height: 13px;
+	 z-index:167;
+} 
+
+ #hearticon_4 
+{ 
+	 left: 1447px; 
+	 top: 1757px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 28px;
+	 z-index:168;
+} 
+
+ #Followers_4 
+{ 
+	 left: 1574px; 
+	 top: 1620px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 10px;
+	 z-index:169;
+} 
+
+ #layer_456_4 
+{ 
+	 left: 1584px; 
+	 top: 1638px; 
+	 position: absolute; 
+	 width: 31px;
+	 height: 14px;
+	 z-index:170;
+} 
+
+ #username_4 
+{ 
+	 left: 1387px; 
+	 top: 1640px; 
+	 position: absolute; 
+	 width: 78px;
+	 height: 10px;
+	 z-index:171;
+} 
+
+ #mask_4 
+{ 
+	 left: 1284px; 
+	 top: 1639px; 
+	 position: absolute; 
+	 width: 86px;
+	 height: 86px;
+	 z-index:172;
+} 
+
+ #profileimg_4 
+{ 
+	 left: 1285px; 
+	 top: 1639px; 
+	 position: absolute; 
+	 width: 85px;
+	 height: 85px;
+	 z-index:173;
+} 
+
+ #graycircle_4 
+{ 
+	 left: 1249px; 
+	 top: 1634px; 
+	 position: absolute; 
+	 width: 95px;
+	 height: 96px;
+	 z-index:174;
+} 
+
+ #story_4 
+{ 
+	 left: 1281px; 
+	 top: 1634px; 
+	 position: absolute; 
+	 width: 96px;
+	 height: 96px;
+	 z-index:175;
+} 
+
+ #online_4 
+{ 
+	 left: 1357px; 
+	 top: 1691px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 22px;
+	 z-index:176;
+} 
+
+ #Label_4 
+{ 
+	 left: 1544px; 
+	 top: 1722px; 
+	 position: absolute; 
+	 width: 85px;
+	 height: 12px;
+	 z-index:177;
+} 
+
+ #ChatwithourLiveModel 
+{ 
+	 left: 699px; 
+	 top: 1192px; 
+	 position: absolute; 
+	 width: 412px;
+	 height: 24px;
+	 z-index:178;
+} 
+
+ #LiveChatNavigation 
+{ 
+	 left: 1062px; 
+	 top: 1274px; 
+	 position: absolute; 
+	 width: 583px;
+	 height: 17px;
+	 z-index:179;
+} 
+
+ #ifsearch172546 
+{ 
+	 left: 691px; 
+	 top: 1267px; 
+	 position: absolute; 
+	 width: 26px;
+	 height: 27px;
+	 z-index:180;
+} 
+
+ #Search1000DailySauce 
+{ 
+	 left: 737px; 
+	 top: 1277px; 
+	 position: absolute; 
+	 width: 304px;
+	 height: 17px;
+	 z-index:181;
+} 
+
+ #Shape4 
+{ 
+	 left: 731px; 
+	 top: 1296px; 
+	 position: absolute; 
+	 width: 318px;
+	 height: 5px;
+	 z-index:182;
+} 
+
+ #ModelsPremiumVideo 
+{ 
+	 left: 282px; 
+	 top: 114px; 
+	 position: absolute; 
+	 width: 525px;
+	 height: 14px;
+	 z-index:183;
+} 
+
+ #Menu2 
+{ 
+	 left: 1518px; 
+	 top: 114px; 
+	 position: absolute; 
+	 width: 126px;
+	 height: 17px;
+	 z-index:184;
+} 
+
+ #Shape1_0 
+{ 
+	 left: -17px; 
+	 top: 165px; 
+	 position: absolute; 
+	 width: 1900px;
+	 height: 917px;
+	 z-index:185;
+} 
+
+ #Layer1 
+{ 
+	 left: -25px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 1200px;
+	 z-index:186;
+} 
+
+ #Shape24copy 
+{ 
+	 left: 146px; 
+	 top: 607px; 
+	 position: absolute; 
+	 width: 78px;
+	 height: 78px;
+	 z-index:187;
+} 
+
+ #ificonios7arrowdown2_1 
+{ 
+	 left: 176px; 
+	 top: 631px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 29px;
+	 z-index:188;
+} 
+
+ #Shape24 
+{ 
+	 left: 1567px; 
+	 top: 607px; 
+	 position: absolute; 
+	 width: 78px;
+	 height: 78px;
+	 z-index:189;
+} 
+
+ #ificonios7arrowdown2_2 
+{ 
+	 left: 1601px; 
+	 top: 631px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 29px;
+	 z-index:190;
+} 
+
+ #Shape2 
+{ 
+	 left: 305px; 
+	 top: 1023px; 
+	 position: absolute; 
+	 width: 1175px;
+	 height: 113px;
+	 z-index:191;
+} 
+
+ #Shape5 
+{ 
+	 left: 1254px; 
+	 top: 1047px; 
+	 position: absolute; 
+	 width: 157px;
+	 height: 63px;
+	 z-index:192;
+} 
+
+ #Shape5copy 
+{ 
+	 left: 1074px; 
+	 top: 1047px; 
+	 position: absolute; 
+	 width: 157px;
+	 height: 63px;
+	 z-index:193;
+} 
+
+ #BecomeaFan 
+{ 
+	 left: 1096px; 
+	 top: 1071px; 
+	 position: absolute; 
+	 width: 114px;
+	 height: 13px;
+	 z-index:194;
+} 
+
+ #BecomeaModel 
+{ 
+	 left: 1266px; 
+	 top: 1070px; 
+	 position: absolute; 
+	 width: 135px;
+	 height: 14px;
+	 z-index:195;
+} 
+
+ #Getyourdailysaucefro 
+{ 
+	 left: 367px; 
+	 top: 1072px; 
+	 position: absolute; 
+	 width: 663px;
+	 height: 16px;
+	 z-index:196;
+} 
+
+ #Shape13 
+{ 
+	 left: 928px; 
+	 top: 982px; 
+	 position: absolute; 
+	 width: 10px;
+	 height: 10px;
+	 z-index:197;
+} 
+
+ #Shape13copy2 
+{ 
+	 left: 902px; 
+	 top: 982px; 
+	 position: absolute; 
+	 width: 11px;
+	 height: 10px;
+	 z-index:198;
+} 
+
+ #Shape13copy 
+{ 
+	 left: 947px; 
+	 top: 982px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 10px;
+	 z-index:199;
+} 
+
+ #Shape22 
+{ 
+	 left: -45px; 
+	 top: -9px; 
+	 position: absolute; 
+	 width: 1930px;
+	 height: 76px;
+	 z-index:200;
+} 
+
+ #LatestNews 
+{ 
+	 left: 823px; 
+	 top: 24px; 
+	 position: absolute; 
+	 width: 104px;
+	 height: 14px;
+	 z-index:201;
+} 
